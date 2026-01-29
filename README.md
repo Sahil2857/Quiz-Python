@@ -28,5 +28,5 @@ No external libraries are required.
 3. Run:
 
 ```bash
-python quiz_bot.py
+python pyquiz.py
 
